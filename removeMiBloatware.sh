@@ -1,5 +1,9 @@
 adb shell pm uninstall -k --user 0 com.android.browser #Mi Browser
-
+adb shell pm uninstall -k --user 0 com.miui.voiceassist #Mi AI for chinabeta
+adb shell pm uninstall -k --user 0 com.mipay.wallet #MI wallet 
+adb shell pm uninstall -k --user 0 com.miui.tsmclient #MiSmartCards
+adb shell pm uninstall -k --user 0 com.android.quicksearchbox #Search
+adb shell pm uninstall -k --user 0 com.miui.miservice #Services
 adb shell pm uninstall -k --user 0 com.facebook.appmanager #Facebook App Manager
 adb shell pm uninstall -k --user 0 com.facebook.services #Facebook Services
 adb shell pm uninstall -k --user 0 com.facebook.system #Facebook App Installer
