@@ -10,7 +10,6 @@ adb shell pm uninstall -k --user 0 com.facebook.system #Facebook App Installer
 adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon #Google Duo
 adb shell pm uninstall -k --user 0 com.google.android.music #Google Music
 adb shell pm uninstall -k --user 0 com.google.android.videos #Play Movies
-adb shell pm uninstall -k --user 0 com.google.android.youtube #Youtube
 adb shell pm uninstall -k --user 0 com.mi.android.globalFileexplorer #Administrador de archivos
 adb shell pm uninstall -k --user 0 com.miui.analytics #Analytics
 adb shell pm uninstall -k --user 0 com.miui.bugreport #Mi Feedback
